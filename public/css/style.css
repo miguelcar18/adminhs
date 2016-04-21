@@ -1,0 +1,53 @@
+.tablagrande{
+	border-left: 2px solid #CCC;
+	border-right: 2px solid #CCC;
+	border-top: 2px solid #CCC;
+	border-bottom: 2px solid #CCC;
+	border-radius: 10px;
+	font-family:Calibri;
+}
+
+.cuadrogrande{
+	background-color: #f4f4f4;
+	border-left: 2px solid #CCC;
+	border-right: 2px solid #CCC;
+	border-top: 2px solid #CCC;
+	border-bottom: 2px solid #CCC;
+	/*border-radius: 10px;*/
+	font-family:Calibri;
+}
+
+.tituloLogin {
+	color: #025A8D;
+	font-family:Calibri;
+	font-weight: bold;
+	text-decoration:blink;
+}
+
+.cuadroexploradores{
+	border-left: 2px solid #c61416;
+	border-right: 2px solid #c61416;
+	border-top: 2px solid #c61416;
+	border-bottom: 2px solid #c61416;
+	font-family:Calibri;
+	color:#c61416;
+	font-weight: bold;
+	margin: 1px;
+}
+
+.linea-horizontal
+{
+	border: 0; 
+	/*border-top: 1px solid #999;*/ 
+	border-bottom: 1px solid #999; 
+	height:0;
+	border-bottom-width:thin;
+}
+
+.borde_derecho{
+	border-right:dashed 1px #c61416;
+}
+
+.borde_izquierdo_grande{
+	border-left:dashed 1px #999;
+}
